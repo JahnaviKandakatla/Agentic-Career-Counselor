@@ -1,5 +1,7 @@
 # Agentic-Career-Counselor
 AI agent offering personalized career guidance using IBM Watsonx, RAG, and real-time job insights.
+---
+
 ![CareerBot Agent][Careerbot Agent.jpg]
 
 # 🧠 CareerBot – AI-Powered Career Guidance Agent
