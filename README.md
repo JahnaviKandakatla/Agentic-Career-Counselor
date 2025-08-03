@@ -2,10 +2,8 @@
 AI agent offering personalized career guidance using IBM Watsonx, RAG, and real-time job insights.
 ---
 
+![IBM careerbot agent](https://github.com/user-attachments/assets/b8da3303-875b-4033-8b13-7659935c85fd)
 
-
-![Careerbot Agent](https://github.com/user-attachments/assets/6d02aa1f-4eee-48e9-a89f-3afe24baf314)
- 
  # 🧠 CareerBot – AI-Powered Career Guidance
 
 **CareerBot** is an intelligent career counseling assistant developed as part of an internship using IBM Cloud services, Watsonx.ai, and Granite 8x8B models. The agent provides personalized career guidance to students based on their academic background, interests, and real-time job market trends. It leverages Retrieval-Augmented Generation (RAG) to fetch contextually accurate and trustworthy answers.
